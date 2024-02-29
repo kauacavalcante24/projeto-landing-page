@@ -202,13 +202,13 @@ button:hover{
         padding-top: 30px;
     }
     .left-login > h2{
-        font-size: 1.5em;
+        font-size: 1.4em;
     }
     label{
         font-size: 0.8em;
     }
     input{
-        padding: 9px;
+        padding: 8px;
     }
     button{
         font-size: 0.8em;
